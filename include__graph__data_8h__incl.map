@@ -1,0 +1,10 @@
+<map id="clangmetatool/collectors/include_graph_data.h" name="clangmetatool/collectors/include_graph_data.h">
+<area shape="rect" id="node11" href="$macro__reference__info_8h.html" title="clangmetatool/types\l/macro_reference_info.h" alt="" coords="1883,95,2135,136"/>
+<area shape="rect" id="node16" href="$file__uid_8h.html" title="clangmetatool/types\l/file_uid.h" alt="" coords="3055,273,3267,315"/>
+<area shape="rect" id="node17" href="$file__attribute__map_8h.html" title="clangmetatool/types\l/file_attribute_map.h" alt="" coords="2421,95,2653,136"/>
+<area shape="rect" id="node19" href="$file__attribute__multimap_8h.html" title="clangmetatool/types\l/file_attribute_multimap.h" alt="" coords="2765,184,3047,225"/>
+<area shape="rect" id="node20" href="$file__graph__edge__multimap_8h.html" title="clangmetatool/types\l/file_graph_edge_multimap.h" alt="" coords="3189,95,3481,136"/>
+<area shape="rect" id="node23" href="$file__graph_8h.html" title="clangmetatool/types\l/file_graph.h" alt="" coords="3557,95,3769,136"/>
+<area shape="rect" id="node18" href="$file__attribute_8h.html" title="clangmetatool/types\l/file_attribute.h" alt="" coords="2528,184,2740,225"/>
+<area shape="rect" id="node21" href="$file__graph__edge_8h.html" title="clangmetatool/types\l/file_graph_edge.h" alt="" coords="3275,184,3487,225"/>
+</map>
